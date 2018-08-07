@@ -20,6 +20,7 @@ brew unrar
 brew usbmuxd
 brew wine
 brew winetricks
+brew zsh
 
 tap homebrew/bundle
 
