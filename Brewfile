@@ -21,6 +21,7 @@ brew usbmuxd
 brew wine
 brew winetricks
 brew zsh
+brew zsh-syntax-highlighting
 
 tap homebrew/bundle
 
