@@ -28,16 +28,17 @@ tap homebrew/services
 tap homebrew/cask
 cask android-platform-tools
 cask google-chrome
-cask spotify
-cask vlc
+cask spectacle
+cask visual-studio-code
 
 tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
 cask firefox
-cask spectacle
-cask visual-studio-code
+cask iterm2
+cask spotify
+cask vlc
 
 # App Store applications
 appstore 682658836 GarageBand (10.3.1)
