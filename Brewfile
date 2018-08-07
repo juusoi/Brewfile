@@ -23,9 +23,15 @@ brew winetricks
 
 tap homebrew/cask
 cask android-platform-tools
+cask google-chrome
+cask visual-studio-code
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Cask applications
+cask firefox
+cask spotify
 
 # App Store applications
 appstore 682658836 GarageBand (10.3.1)
