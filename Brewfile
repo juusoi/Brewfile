@@ -21,18 +21,23 @@ brew usbmuxd
 brew wine
 brew winetricks
 
+tap homebrew/bundle
+
+tap homebrew/services
+
 tap homebrew/cask
 cask android-platform-tools
 cask google-chrome
-cask visual-studio-code
+cask spotify
+cask vlc
 
 tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
 cask firefox
-cask spotify
-cask vlc
+cask spectacle
+cask visual-studio-code
 
 # App Store applications
 appstore 682658836 GarageBand (10.3.1)
