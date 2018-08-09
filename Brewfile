@@ -7,6 +7,7 @@ brew carthage
 brew git
 brew icu4c
 brew ideviceinstaller
+brew ios-deploy
 brew libimobiledevice
 brew libplist
 brew libtasn1
