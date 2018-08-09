@@ -16,10 +16,13 @@ brew mas
 brew node
 brew openssl
 brew p7zip
+brew pcre
+brew the_silver_searcher
 brew unrar
 brew usbmuxd
 brew wine
 brew winetricks
+brew xz
 brew zsh
 brew zsh-syntax-highlighting
 
