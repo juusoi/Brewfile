@@ -4,8 +4,12 @@
 tap homebrew/core
 brew cabextract
 brew carthage
+brew cython
+brew gdbm
 brew git
 brew icu4c
+brew ios-deploy
+brew libimobiledevice
 brew libplist
 brew libtasn1
 brew libusb
@@ -15,6 +19,9 @@ brew node
 brew openssl
 brew p7zip
 brew pcre
+brew python@2
+brew readline
+brew sqlite
 brew the_silver_searcher
 brew unrar
 brew usbmuxd
