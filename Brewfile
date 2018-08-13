@@ -10,6 +10,7 @@ brew gettext
 brew git
 brew icu4c
 brew ios-deploy
+brew ios-webkit-debug-proxy
 brew libidn2
 brew libimobiledevice
 brew libplist
