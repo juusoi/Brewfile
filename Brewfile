@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew autoconf
 brew cabextract
 brew carthage
 brew cython
@@ -20,10 +21,11 @@ brew libusb
 brew libyaml
 brew libzip
 brew mas
-brew node
+brew node@8
 brew openssl
 brew p7zip
 brew pcre
+brew pkg-config
 brew python@2
 brew readline
 brew ruby
@@ -31,6 +33,7 @@ brew sqlite
 brew the_silver_searcher
 brew unrar
 brew usbmuxd
+brew watchman
 brew wget
 brew wine
 brew winetricks
@@ -44,7 +47,8 @@ tap homebrew/services
 
 tap homebrew/cask
 cask android-platform-tools
-cask google-chrome
+cask firefox
+cask iterm2
 cask spectacle
 cask visual-studio-code
 
@@ -52,8 +56,9 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
-cask firefox
-cask iterm2
+cask chromedriver
+cask google-chrome
+cask macdown
 cask spotify
 cask vlc
 
