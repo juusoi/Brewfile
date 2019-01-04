@@ -12,6 +12,7 @@ brew git
 brew icu4c
 brew ios-deploy
 brew ios-webkit-debug-proxy
+brew jenv
 brew libidn2
 brew libimobiledevice
 brew libplist
@@ -49,8 +50,13 @@ tap homebrew/cask
 cask android-platform-tools
 cask firefox
 cask iterm2
-cask spectacle
-cask visual-studio-code
+cask macdown
+cask spotify
+cask vlc
+
+tap caskroom/versions
+
+tap caskroom/versions
 
 tap rcmdnk/file
 brew brew-file
@@ -58,9 +64,10 @@ brew brew-file
 # Other Cask applications
 cask chromedriver
 cask google-chrome
-cask macdown
-cask spotify
-cask vlc
+cask java
+cask java8
+cask spectacle
+cask visual-studio-code
 
 # App Store applications
 appstore 682658836 GarageBand (10.3.1)
