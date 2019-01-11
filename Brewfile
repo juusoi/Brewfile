@@ -32,6 +32,7 @@ brew readline
 brew ruby
 brew sqlite
 brew the_silver_searcher
+brew tree
 brew unrar
 brew usbmuxd
 brew watchman
