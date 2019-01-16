@@ -69,10 +69,3 @@ cask java
 cask java8
 cask spectacle
 cask visual-studio-code
-
-# App Store applications
-appstore 409183694 Keynote (8.1)
-appstore 409203825 Numbers (5.1)
-appstore 409201541 Pages (7.1)
-appstore 803453959 Slack (3.2.0)
-appstore 497799835 Xcode (9.4.1)
