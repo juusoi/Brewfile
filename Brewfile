@@ -71,8 +71,6 @@ cask spectacle
 cask visual-studio-code
 
 # App Store applications
-appstore 682658836 GarageBand (10.3.1)
-appstore 408981434 iMovie (10.1.9)
 appstore 409183694 Keynote (8.1)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
