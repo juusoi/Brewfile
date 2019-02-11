@@ -52,10 +52,14 @@ tap homebrew/services
 tap homebrew/cask
 cask android-platform-tools
 cask firefox
-cask iterm2
+cask google-chrome
+cask java
 cask macdown
 cask spotify
 cask vlc
+
+tap caskroom/fonts
+cask font-hack
 
 tap caskroom/versions
 cask java8
@@ -67,7 +71,6 @@ brew brew-file
 
 # Other Cask applications
 cask chromedriver
-cask google-chrome
-cask java
+cask iterm2
 cask spectacle
 cask visual-studio-code
