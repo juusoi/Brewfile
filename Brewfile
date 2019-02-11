@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew autoconf
+brew awscli
 brew cabextract
 brew carthage
 brew cython
@@ -27,6 +28,7 @@ brew openssl
 brew p7zip
 brew pcre
 brew pkg-config
+brew python
 brew python@2
 brew readline
 brew ruby
@@ -56,6 +58,7 @@ cask spotify
 cask vlc
 
 tap caskroom/versions
+cask java8
 
 tap caskroom/versions
 
@@ -66,6 +69,5 @@ brew brew-file
 cask chromedriver
 cask google-chrome
 cask java
-cask java8
 cask spectacle
 cask visual-studio-code
