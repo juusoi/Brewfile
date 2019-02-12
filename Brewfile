@@ -60,8 +60,6 @@ cask visual-studio-code
 tap caskroom/fonts
 cask font-hack
 
-tap caskroom/versions
-
 tap rcmdnk/file
 brew brew-file
 
