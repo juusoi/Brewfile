@@ -54,11 +54,15 @@ cask android-platform-tools
 cask firefox
 cask google-chrome
 cask java
-cask spectacle
-cask visual-studio-code
+cask macdown
+cask spotify
+cask vlc
 
 tap caskroom/fonts
 cask font-hack
+
+tap caskroom/versions
+cask java8
 
 tap rcmdnk/file
 brew brew-file
@@ -66,6 +70,5 @@ brew brew-file
 # Other Cask applications
 cask chromedriver
 cask iterm2
-cask macdown
-cask spotify
-cask vlc
+cask spectacle
+cask visual-studio-code
