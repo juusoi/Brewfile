@@ -23,7 +23,7 @@ brew libusb
 brew libyaml
 brew libzip
 brew mas
-brew node@10
+brew node@8
 brew openssl
 brew p7zip
 brew pcre
