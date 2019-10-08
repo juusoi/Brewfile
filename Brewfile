@@ -11,7 +11,7 @@ brew gdbm
 brew gettext
 brew git
 brew icu4c
-brew ios-deploy
+brew ideviceinstaller
 brew ios-webkit-debug-proxy
 brew jenv
 brew libidn2
