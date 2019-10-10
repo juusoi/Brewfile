@@ -3,11 +3,13 @@
 
 tap homebrew/core
 brew autoconf
+brew automake
 brew awscli
 brew cabextract
 brew carthage
 brew cython
 brew gdbm
+brew geckodriver
 brew gettext
 brew git
 brew icu4c
@@ -18,15 +20,21 @@ brew libidn2
 brew libimobiledevice
 brew libplist
 brew libtasn1
+brew libtool
 brew libunistring
 brew libusb
+brew libxml2
 brew libyaml
 brew libzip
 brew mas
+brew maven
+brew ncurses
 brew node@8
 brew openssl
+brew openssl@1.1
 brew p7zip
 brew pcre
+brew pcre2
 brew pkg-config
 brew python
 brew python@2
@@ -34,6 +42,7 @@ brew readline
 brew ruby
 brew sqlite
 brew the_silver_searcher
+brew trash
 brew tree
 brew unrar
 brew usbmuxd
@@ -46,6 +55,8 @@ brew zsh
 brew zsh-syntax-highlighting
 
 tap homebrew/bundle
+
+tap homebrew/cask-versions
 
 tap homebrew/services
 
@@ -70,3 +81,11 @@ cask iterm2
 cask java8
 cask spectacle
 cask visual-studio-code
+
+# App Store applications
+appstore 409183694 Keynote (9.2)
+appstore 409203825 Numbers (6.2)
+appstore 409201541 Pages (8.2)
+appstore 803453959 Slack (4.1.0)
+appstore 1147396723 WhatsApp (0.3.4941)
+appstore 497799835 Xcode (11.1)
