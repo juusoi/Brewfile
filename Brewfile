@@ -86,6 +86,6 @@ cask visual-studio-code
 appstore 409183694 Keynote (9.2)
 appstore 409203825 Numbers (6.2)
 appstore 409201541 Pages (8.2)
-appstore 803453959 Slack (4.1.0)
+appstore 803453959 Slack (4.1.2)
 appstore 1147396723 WhatsApp (0.3.5149)
-appstore 497799835 Xcode (11.1)
+appstore 497799835 Xcode (11.2)
