@@ -48,7 +48,6 @@ brew unrar
 brew usbmuxd
 brew watchman
 brew wget
-brew wine
 brew winetricks
 brew xz
 brew zsh
@@ -74,6 +73,9 @@ cask font-hack
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew wine
 
 # Other Cask applications
 cask chromedriver
