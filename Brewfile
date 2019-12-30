@@ -7,6 +7,7 @@ brew automake
 brew awscli
 brew cabextract
 brew carthage
+brew coreutils
 brew cython
 brew gdbm
 brew geckodriver
@@ -16,8 +17,10 @@ brew icu4c
 brew ideviceinstaller
 brew ios-webkit-debug-proxy
 brew jenv
+brew libgpg-error
 brew libidn2
 brew libimobiledevice
+brew libksba
 brew libplist
 brew libtasn1
 brew libtool
@@ -30,7 +33,7 @@ brew mas
 brew maven
 brew ncurses
 brew node@8
-brew openssl
+brew nvm
 brew openssl@1.1
 brew p7zip
 brew pcre
@@ -45,11 +48,11 @@ brew the_silver_searcher
 brew trash
 brew tree
 brew unrar
-brew usbmuxd
 brew watchman
 brew wget
 brew winetricks
 brew xz
+brew zlib
 brew zsh
 brew zsh-syntax-highlighting
 
@@ -75,6 +78,8 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew openssl
+brew usbmuxd
 brew wine
 
 # Other Cask applications
