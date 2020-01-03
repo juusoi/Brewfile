@@ -26,6 +26,7 @@ brew libtasn1
 brew libtool
 brew libunistring
 brew libusb
+brew libusbmuxd
 brew libxml2
 brew libyaml
 brew libzip
@@ -66,7 +67,7 @@ tap homebrew/cask
 cask android-platform-tools
 cask firefox
 cask google-chrome
-cask java
+cask iterm2
 cask macdown
 cask spotify
 cask vlc
@@ -78,21 +79,20 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew openssl
-brew usbmuxd
 brew wine
 
 # Other Cask applications
 cask chromedriver
-cask iterm2
+cask google-cloud-sdk
+cask java
 cask java8
 cask spectacle
 cask visual-studio-code
 
 # App Store applications
-appstore 409183694 Keynote (9.2)
-appstore 409203825 Numbers (6.2)
-appstore 409201541 Pages (8.2)
-appstore 803453959 Slack (4.1.2)
-appstore 1147396723 WhatsApp (0.3.5149)
-appstore 497799835 Xcode (11.2)
+appstore 409183694 Keynote (9.2.1)
+appstore 409203825 Numbers (6.2.1)
+appstore 409201541 Pages (8.2.1)
+appstore 803453959 Slack (4.2.0)
+appstore 1147396723 WhatsApp (0.3.9309)
+appstore 497799835 Xcode (11.3)
