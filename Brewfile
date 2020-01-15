@@ -33,7 +33,6 @@ brew libzip
 brew mas
 brew maven
 brew ncurses
-brew node@8
 brew nvm
 brew openssl@1.1
 brew p7zip
@@ -42,6 +41,7 @@ brew pcre2
 brew pkg-config
 brew python
 brew python@2
+brew python@3.8
 brew readline
 brew ruby
 brew sqlite
@@ -65,11 +65,16 @@ tap homebrew/services
 
 tap homebrew/cask
 cask android-platform-tools
+cask chromedriver
 cask firefox
 cask google-chrome
+cask google-cloud-sdk
 cask iterm2
+cask java
 cask macdown
+cask spectacle
 cask spotify
+cask visual-studio-code
 cask vlc
 
 tap caskroom/fonts
@@ -79,15 +84,11 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew node@8
 brew wine
 
 # Other Cask applications
-cask chromedriver
-cask google-cloud-sdk
-cask java
 cask java8
-cask spectacle
-cask visual-studio-code
 
 # App Store applications
 appstore 409183694 Keynote (9.2.1)
