@@ -34,13 +34,13 @@ brew mas
 brew maven
 brew ncurses
 brew nvm
+brew openjdk
 brew openssl@1.1
 brew p7zip
 brew pcre
 brew pcre2
 brew pkg-config
 brew python
-brew python@2
 brew python@3.8
 brew readline
 brew ruby
@@ -77,6 +77,9 @@ cask spotify
 cask visual-studio-code
 cask vlc
 
+tap aws/tap
+brew aws-sam-cli
+
 tap caskroom/fonts
 cask font-hack
 
@@ -85,6 +88,7 @@ brew brew-file
 
 # Other Homebrew packages
 brew node@8
+brew python@2
 brew wine
 
 # Other Cask applications
@@ -94,6 +98,6 @@ cask java8
 appstore 409183694 Keynote (9.2.1)
 appstore 409203825 Numbers (6.2.1)
 appstore 409201541 Pages (8.2.1)
-appstore 803453959 Slack (4.2.0)
-appstore 1147396723 WhatsApp (0.4.315)
+appstore 803453959 Slack (4.3.3)
+appstore 1147396723 WhatsApp (0.4.316)
 appstore 497799835 Xcode (11.3.1)
