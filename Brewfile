@@ -85,11 +85,6 @@ brew aws-sam-cli
 tap rcmdnk/file
 brew brew-file
 
-# Other Homebrew packages
-brew node@8
-brew python@2
-brew wine
-
 # Other Cask applications
 cask java8
 
