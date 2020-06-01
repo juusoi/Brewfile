@@ -72,7 +72,6 @@ cask firefox
 cask google-chrome
 cask google-cloud-sdk
 cask iterm2
-cask java
 cask macdown
 cask spectacle
 cask spotify
@@ -84,9 +83,6 @@ brew aws-sam-cli
 
 tap rcmdnk/file
 brew brew-file
-
-# Other Cask applications
-cask java8
 
 # App Store applications
 appstore 408981434 iMovie (10.1.14)
