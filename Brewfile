@@ -66,7 +66,6 @@ tap homebrew/services
 
 tap homebrew/cask
 cask android-platform-tools
-cask chromedriver
 cask firefox
 cask google-chrome
 cask google-cloud-sdk
