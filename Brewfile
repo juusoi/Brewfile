@@ -70,7 +70,6 @@ cask firefox
 cask google-chrome
 cask google-cloud-sdk
 cask iterm2
-cask java
 cask macdown
 cask spectacle
 cask spotify
@@ -83,19 +82,25 @@ brew aws-sam-cli
 tap rcmdnk/file
 brew brew-file
 
+# Other Cask applications
+cask java
+
 # App Store applications
 appstore 682658836 GarageBand (10.3.5)
-appstore 408981434 iMovie (10.1.15)
-appstore 409183694 Keynote (10.1)
-appstore 462058435 Microsoft Excel (16.40)
-appstore 784801555 Microsoft OneNote (16.40)
-appstore 985367838 Microsoft Outlook (16.40)
-appstore 462062816 Microsoft PowerPoint (16.40)
+appstore 408981434 iMovie (10.1.16)
+appstore 409183694 Keynote (10.2)
+appstore 441258766 Magnet (2.4.8)
+appstore 462058435 Microsoft Excel (16.41)
+appstore 784801555 Microsoft OneNote (16.41)
+appstore 985367838 Microsoft Outlook (16.41)
+appstore 462062816 Microsoft PowerPoint (16.41)
 appstore 1295203466 Microsoft Remote Desktop (10.4.0)
-appstore 462054704 Microsoft Word (16.40)
-appstore 409203825 Numbers (10.1)
-appstore 823766827 OneDrive (20.084.0426)
-appstore 409201541 Pages (10.1)
-appstore 803453959 Slack (4.8.0)
-appstore 1147396723 WhatsApp (2.2035.15)
-appstore 497799835 Xcode (11.7)
+appstore 462054704 Microsoft Word (16.41)
+appstore 409203825 Numbers (10.2)
+appstore 823766827 OneDrive (20.124.0621)
+appstore 409201541 Pages (10.2)
+appstore 803453959 Slack (4.9.0)
+appstore 747648890 Telegram (7.1)
+appstore 1147396723 WhatsApp (2.2039.9)
+appstore 497799835 Xcode (12.0.1)
+appstore 1327661892 XMind (10.2.1)
