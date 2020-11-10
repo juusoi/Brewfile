@@ -33,6 +33,7 @@ brew ncurses
 brew nvm
 brew oniguruma
 brew openjdk
+brew openjdk@11
 brew openssl@1.1
 brew p7zip
 brew pcre
@@ -87,10 +88,11 @@ brew brew-file
 cask java
 
 # App Store applications
+appstore 937984704 Amphetamine (5.0.3)
 appstore 682658836 GarageBand (10.3.5)
 appstore 408981434 iMovie (10.1.16)
 appstore 409183694 Keynote (10.2)
-appstore 441258766 Magnet (2.4.8)
+appstore 441258766 Magnet (2.4.9)
 appstore 462058435 Microsoft Excel (16.42)
 appstore 784801555 Microsoft OneNote (16.42)
 appstore 985367838 Microsoft Outlook (16.42)
@@ -100,8 +102,8 @@ appstore 462054704 Microsoft Word (16.42)
 appstore 409203825 Numbers (10.2)
 appstore 823766827 OneDrive (20.124.0621)
 appstore 409201541 Pages (10.2)
-appstore 803453959 Slack (4.10.2)
-appstore 747648890 Telegram (7.1)
-appstore 1147396723 WhatsApp (2.2039.9)
-appstore 497799835 Xcode (12.0.1)
+appstore 803453959 Slack (4.10.3)
+appstore 747648890 Telegram (7.2)
+appstore 1147396723 WhatsApp (2.2043.21)
+appstore 497799835 Xcode (12.1)
 appstore 1327661892 XMind (10.2.1)
