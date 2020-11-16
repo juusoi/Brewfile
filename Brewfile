@@ -39,7 +39,6 @@ brew p7zip
 brew pcre
 brew pcre2
 brew pkg-config
-brew python@3.7
 brew python@3.8
 brew python@3.9
 brew readline
