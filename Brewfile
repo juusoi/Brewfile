@@ -67,11 +67,14 @@ tap homebrew/services
 
 tap homebrew/cask
 cask android-platform-tools
+cask firefox
 cask google-chrome
 cask google-cloud-sdk
 cask iterm2
+cask macdown
 cask spotify
 cask visual-studio-code
+cask vlc
 
 tap aws/tap
 brew aws-sam-cli
@@ -80,6 +83,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
+cask java
 
 # App Store applications
 appstore 937984704 Amphetamine (5.1)
