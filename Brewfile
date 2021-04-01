@@ -27,6 +27,7 @@ brew libusb
 brew libxml2
 brew libyaml
 brew libzip
+brew m4
 brew mas
 brew maven
 brew mpdecimal
@@ -68,6 +69,7 @@ tap homebrew/services
 
 tap homebrew/cask
 cask android-platform-tools
+cask discord
 cask google-chrome
 cask google-cloud-sdk
 cask iterm2
@@ -87,15 +89,15 @@ cask rcc
 # App Store applications
 appstore 937984704 Amphetamine (5.1.1)
 appstore 408981434 iMovie (10.2.3)
-appstore 409183694 Keynote (10.3.9)
+appstore 409183694 Keynote (11.0.1)
 appstore 441258766 Magnet (2.5.0)
-appstore 462058435 Microsoft Excel (16.46)
-appstore 462062816 Microsoft PowerPoint (16.46)
-appstore 462054704 Microsoft Word (16.46)
-appstore 409203825 Numbers (10.3.9)
-appstore 409201541 Pages (10.3.9)
+appstore 462058435 Microsoft Excel (16.47.1)
+appstore 462062816 Microsoft PowerPoint (16.47)
+appstore 462054704 Microsoft Word (16.47)
+appstore 409203825 Numbers (11.0)
+appstore 409201541 Pages (11.0)
 appstore 803453959 Slack (4.13.0)
-appstore 747648890 Telegram (7.5.1)
-appstore 1147396723 WhatsApp (2.2106.15)
+appstore 747648890 Telegram (7.6)
+appstore 1147396723 WhatsApp (2.2108.9)
 appstore 497799835 Xcode (12.4)
 appstore 1327661892 XMind (10.3.1)
