@@ -92,7 +92,7 @@ cask rcc
 appstore 937984704 Amphetamine (5.2.1)
 appstore 408981434 iMovie (10.2.3)
 appstore 409183694 Keynote (11.0.1)
-appstore 441258766 Magnet (2.5.0)
+appstore 441258766 Magnet (2.6.0)
 appstore 462058435 Microsoft Excel (16.48)
 appstore 462062816 Microsoft PowerPoint (16.48)
 appstore 462054704 Microsoft Word (16.48)
