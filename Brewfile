@@ -71,6 +71,7 @@ tap homebrew/services
 tap homebrew/cask
 cask android-platform-tools
 cask discord
+cask firefox
 cask google-chrome
 cask google-cloud-sdk
 cask iterm2
@@ -92,9 +93,9 @@ appstore 937984704 Amphetamine (5.2.1)
 appstore 408981434 iMovie (10.2.3)
 appstore 409183694 Keynote (11.0.1)
 appstore 441258766 Magnet (2.5.0)
-appstore 462058435 Microsoft Excel (16.47.1)
-appstore 462062816 Microsoft PowerPoint (16.47)
-appstore 462054704 Microsoft Word (16.47)
+appstore 462058435 Microsoft Excel (16.48)
+appstore 462062816 Microsoft PowerPoint (16.48)
+appstore 462054704 Microsoft Word (16.48)
 appstore 409203825 Numbers (11.0)
 appstore 409201541 Pages (11.0)
 appstore 803453959 Slack (4.14.1)
