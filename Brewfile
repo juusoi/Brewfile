@@ -69,7 +69,6 @@ cask adoptopenjdk8
 tap homebrew/services
 
 tap homebrew/cask
-cask android-platform-tools
 cask discord
 cask firefox
 cask google-chrome
