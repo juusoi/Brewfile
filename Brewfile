@@ -5,17 +5,24 @@ tap homebrew/core
 brew autoconf
 brew automake
 brew awscli
+brew boost
 brew cabextract
 brew carthage
 brew coreutils
 brew cython
+brew double-conversion
+brew fmt
+brew folly
 brew gdbm
 brew geckodriver
 brew gettext
+brew gflags
 brew git
+brew glog
 brew icu4c
 brew jenv
 brew jq
+brew libevent
 brew libgpg-error
 brew libidn2
 brew libksba
@@ -27,6 +34,7 @@ brew libusb
 brew libxml2
 brew libyaml
 brew libzip
+brew lz4
 brew m4
 brew mas
 brew maven
@@ -46,6 +54,7 @@ brew python@3.9
 brew readline
 brew ruby
 brew shellcheck
+brew snappy
 brew sqlite
 brew tcl-tk
 brew the_silver_searcher
@@ -57,6 +66,7 @@ brew xz
 brew zlib
 brew zsh
 brew zsh-syntax-highlighting
+brew zstd
 
 tap homebrew/bundle
 
@@ -88,15 +98,15 @@ tap robocorp/tools
 cask rcc
 
 # App Store applications
-appstore 937984704   Amphetamine           (5.2.1)
+appstore 937984704   Amphetamine           (5.2.2)
 appstore 408981434   iMovie                (10.2.3)
-appstore 409183694   Keynote               (11.0.1)
+appstore 409183694   Keynote               (11.1)
 appstore 441258766   Magnet                (2.6.0)
 appstore 462058435   Microsoft Excel       (16.49)
 appstore 462062816   Microsoft PowerPoint  (16.49)
 appstore 462054704   Microsoft Word        (16.49)
-appstore 409203825   Numbers               (11.0)
-appstore 409201541   Pages                 (11.0)
+appstore 409203825   Numbers               (11.1)
+appstore 409201541   Pages                 (11.1)
 appstore 803453959   Slack                 (4.16.0)
 appstore 747648890   Telegram              (7.7)
 appstore 1147396723  WhatsApp              (2.2119.6)
