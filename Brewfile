@@ -80,6 +80,7 @@ tap homebrew/services
 
 tap homebrew/cask
 cask discord
+cask docker
 cask firefox
 cask google-chrome
 cask google-cloud-sdk
