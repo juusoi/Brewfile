@@ -90,7 +90,6 @@ cask sublime-text
 cask visual-studio-code
 
 tap aws/tap
-brew aws-sam-cli
 
 tap rcmdnk/file
 brew brew-file
