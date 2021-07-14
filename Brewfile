@@ -21,6 +21,7 @@ brew git
 brew glog
 brew icu4c
 brew ideviceinstaller
+brew ios-webkit-debug-proxy
 brew jenv
 brew jq
 brew libevent
