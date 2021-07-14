@@ -20,17 +20,20 @@ brew gflags
 brew git
 brew glog
 brew icu4c
+brew ideviceinstaller
 brew jenv
 brew jq
 brew libevent
 brew libgpg-error
 brew libidn2
+brew libimobiledevice --HEAD
 brew libksba
 brew libplist
 brew libtasn1
 brew libtool
 brew libunistring
 brew libusb
+brew libusbmuxd
 brew libxml2
 brew libyaml
 brew libzip
@@ -98,7 +101,7 @@ cask rcc
 
 # App Store applications
 appstore 937984704   Amphetamine           (5.2.2)
-appstore 408981434   iMovie                (10.2.4)
+appstore 408981434   iMovie                (10.2.5)
 appstore 409183694   Keynote               (11.1)
 appstore 441258766   Magnet                (2.6.0)
 appstore 462058435   Microsoft Excel       (16.50)
